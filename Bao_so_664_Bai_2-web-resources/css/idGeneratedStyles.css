@@ -1,0 +1,163 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+p.Normal {
+	color:#000000;
+	font-family:"VNI-Centur", serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span._019_617_Dropcap {
+	font-family:"Comic Sans MS", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:none;
+}
+span.Strong {
+	font-style:normal;
+	font-weight:bold;
+}
+p.ParaOverride-1 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+p.ParaOverride-2 {
+	-epub-hyphens:none;
+}
+p.ParaOverride-3 {
+	-epub-hyphens:none;
+	text-indent:14px;
+}
+p.ParaOverride-4 {
+	-epub-hyphens:none;
+	margin-right:6px;
+	margin-top:3px;
+	text-align:right;
+}
+p.ParaOverride-5 {
+	-epub-hyphens:none;
+	margin-right:6px;
+	text-align:right;
+}
+p.ParaOverride-6 {
+	-epub-hyphens:none;
+	-epub-line-break:normal;
+}
+span.CharOverride-1 {
+	color:#524fa1;
+	font-family:"Times New Roman", serif;
+	font-size:50px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-2 {
+	color:#524fa1;
+	font-family:"Times New Roman", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-family:"UTM Centur", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	font-family:"UTM Centur", serif;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	font-family:"ZapfDingbats BT", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	font-family:"UTM Helve", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-family:"UTM Helve", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	font-family:"UTM Helve", sans-serif;
+	font-size:8px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#000000;
+	font-size:10px;
+}
+span.CharOverride-10 {
+	color:#ffffff;
+	font-family:"UTM Helve", sans-serif;
+	font-size:9px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	font-family:"ZapfDingbats BT", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:811px;
+	position:relative;
+	width:575px;
+}
+#_idContainer003 {
+	display:inline-block;
+	height:239px;
+	width:335px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#d8e2f1;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
